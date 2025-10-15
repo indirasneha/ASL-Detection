@@ -57,7 +57,6 @@ Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib, Jupyter Notebook
 
 ## **Author**
 
-**Padala Indira Sneha** – Mahindra University
 **Padala Indira Sneha** – Mahindra University  
 [LinkedIn](https://www.linkedin.com/in/indira-sneha-padala-15475328a) | [GitHub](https://github.com/indirasneha)
 ---
